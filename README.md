@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManasiGDeshmukh
-- 👀 I’m interested in Java coding
+- 👀 I’m interested in Java coding, Web Development (Front-End)
 - 🌱 I’m currently learning DSA-java, python, AI-ML (python)
-- 💞️ I’m looking to collaborate on java projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me manasiganeshdeshmukh@gmail.com
 
 <!---
