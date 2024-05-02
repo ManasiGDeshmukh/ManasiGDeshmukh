@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ManasiGDeshmukh
-- 👀 I’m interested in Java coding, Web Development (Front-End)
-- 🌱 I’m currently learning DSA-java, python, AI-ML (python)
+- 👋 Hi, I’m Manasi Deshmukh
+- 👀 I’m interested in coding, Web Development 
+- 🌱 Tech Skills - Java, Python, Advance ML, Data Science, Database Management, Full Stack Web Dvelopment (Java), Android Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me manasiganeshdeshmukh@gmail.com
 
